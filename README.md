@@ -1,1 +1,2 @@
 # Real-Options-Analysis-in-Corporate-Strategy
+The objective of this capstone project is to apply real options analysis to a specific corporate investment decision or strategy, such as launching a new product, expanding production capacity, or entering a new market. By assessing the value-adds by flexibility and strategic options play, the project aims to lay a framework for real options analysis in corporate strategy and provide a comparison with traditional corporate strategy decisioning processes.
